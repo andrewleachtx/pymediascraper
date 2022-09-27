@@ -15,8 +15,8 @@ python_install.exe /quiet
 del python_install.exe
 
 ECHO Editing PATH Variables
-::setx path "%path%;C:%HOMEPATH%\AppData\Local\Programs\Python\Python38\Scripts"
-::setx /M path "%path%;C:%HOMEPATH%\AppData\Local\Programs\Python\Python38"
+setx path "%path%;C:%HOMEPATH%\AppData\Local\Programs\Python\Python38\Scripts"
+setx /M path "%path%;C:%HOMEPATH%\AppData\Local\Programs\Python\Python38"
 
 ECHO Python installed
 ECHO Upgrading PIP
@@ -41,6 +41,5 @@ pip install openpyxl
 ECHO Downloads Complete
 
 cd C:%HOMEPATH%\AppData\Local\Programs\Python\Python38
-python "C:\Program Files\spaceCRAFT_GUI\testing_imgui.py"
 
 PAUSE
