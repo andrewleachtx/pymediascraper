@@ -18,8 +18,8 @@ Unfortunately, the main script for this code is currently unavailable for downlo
 ## Current Files
 | File | HYPERLINK |
 | ---- | --------- |
-| readme | [github](GHub_readme) | 
-| install | [github](Ghub_install) |
+| readme | [github][GHub_readme] | 
+| install | [github][GHub_install] |
 | main script | unavailable for download |
 
 [//]: # (reference links)
