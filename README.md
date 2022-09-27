@@ -1,4 +1,4 @@
-# Python Media Scraper (DOES NOT WORK!)
+# Python Media Scraper (DEPRECATED)
 
 ## Features
 
