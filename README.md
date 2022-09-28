@@ -11,7 +11,7 @@ A deprecated, (mainly) unfinished, and nonfunctioning project developed in the W
 - [OpenPYXL] to read and write from spreadsheets to put extracted data taken from [BeautifulSoup4].
 
 ## Installation
-Installation is relatively simple; a ```batch``` script was utilized to install all necessary modules (includes all dependencies in [dependencies](#dependencies). A link is provided to that [here](GHub_install).
+Installation is relatively simple; a ```batch``` script was utilized to install all necessary modules (includes all dependencies in [dependencies](#dependencies). A link is provided to that [here][GHub_install].
 
 Unfortunately, the main script for this code is currently unavailable for download.
 
@@ -20,7 +20,8 @@ Unfortunately, the main script for this code is currently unavailable for downlo
 | ---- | --------- |
 | readme | [github][GHub_readme] | 
 | install | [github][GHub_install] |
-| main script | unavailable for download |
+| main script | [github][GHub_scraperpy] |
+| example csv | [github][GHub_linkcsv] |
 
 [//]: # (reference links)
 
@@ -33,4 +34,5 @@ Unfortunately, the main script for this code is currently unavailable for downlo
 [Requests]: <https://pypi.org/project/requests/>
 [GHub_readme]: <https://github.com/andrewleachtx/pymediascraper/blob/main/README.md>
 [GHub_install]: <https://github.com/andrewleachtx/pymediascraper/blob/main/install.bat>
-[GHub_pyscript]: <>
+[GHub_scraperpy]: <https://github.com/andrewleachtx/pymediascraper/blob/main/pymediascraper.py>
+[GHub_linkcsv]: <https://github.com/andrewleachtx/pymediascraper/blob/main/examplesheet.csv>
